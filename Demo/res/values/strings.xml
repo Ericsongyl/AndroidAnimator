@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_slidinglayout">侧滑栏SlidingLayout</string>
+    <string name="tv_slidinglayout">这是侧滑栏界面</string>
+    <string name="btn_show">&lt; 查看侧滑栏</string>
+    <string name="imageview_description">imageview_description</string>
+    <string name="btn_gallery">ViewPager实现画廊</string>
+    <string name="vp_gallery">简单用viewpager实现画廊</string>
+    <string name="btn_roundimage">圆形图片</string>
+    <string name="btn_simpleanimation">简单的动画效果</string>
+    <string name="start">Start</string>
+    <string name="btn_waterdrop">可拖拽的弹簧式水泡</string>
+    <string name="btn_draggridview">可拖拽换位的GridView</string>
+    <string name="btn_downimage">下载图片</string>
+    <string name="btn_turnpage">翻书页效果</string>
+    <string name="btn_superposition">叠楼效果</string>
+    <string name="activity_touchintercept_textview">这是上层控件</string>
+    <string name="btn_touchintercept">android 控件嵌套点击触发事件</string>
+    <string name="reply">回复</string>
+
+</resources>
